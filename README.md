@@ -13,37 +13,37 @@ Our insights from this data will be visualized in Tableau.
 
 Trips By Weekday Per Hour
 
-![Trips by Weekday.png](Images/Trips by Weekday.png)
+![Trips_by_Weekday.png](Images/Trips_by_Weekday.png)
 
 It is evident from our visualization that there are very high usage rates on the weekdays from 8 AM to 9 AM and 5 PM to 7 PM, indicating that it is heavily utilized for work commuting. However, the weekend has pretty steady usage over the course of the day.
 
 Trips By Gender (Weekday Per Hour)
 
-![Trips by Gender Per Hour.png](Images/Trips by Gender Per Hour.png)
+![Trips_by_Gender_PerHour.png](Images/Trips_by_Gender_PerHour.png)
 
 Now with a breakdown of this information by user gender, the same trends are evident. There is higher usage during commuting hours on weekdays, but steady usage on weekends.
 
 User Trips By Gender By Weekday
 
-![Trips by Gender User Type.png](Images/Trips by Gender User Type.png)
+![Trips_by_Gender_UserType.png](Images/Trips_by_Gender_UserType.png)
 
 Here, we have broken down the user types, per use customers and subscribers, which is then further categorized by gender. The per use customers appear to have lower usage rates on the weekdays, while there is higher activity on the weekends. Conversely, the subscribers are far more consistently active on the weekdays, and there are more rides by male users.
 
 Checkout Time for Users
 
-![Checkout Time for Users.png](Images /Checkout Time for Users.png)
+![Checkout_Time_for_Users.png](Images /Checkout_Time_for_Users.png)
 
 This graph breaks down the trip durations by the number of rides, and it is clear that the majority of users have about 5 to 6 hour long trips.
 
 Checkout Time By Gender
 
-![Checkout Time by Gender.png](Images/Checkout Time by Gender.png)
+![Checkout_Time_by_Gender.png](Images/Checkout_Time_by_Gender.png)
 
 This graph seeks to further break down the trip duration, again through the gender of users. However, the trends seem to be similar as the total users, as both male and female users still have 5 or 6 hour trips.
 
 Total Number of Rides Per Bike ID
 
-![Number of Rides Bike ID.png](Images/Number of Rides Bike ID.png)
+![Number_of_Rides_BikeID.png](Images/Number_of_Rides_BikeID.png)
 
 This chart conveys the number of rides per bike ID, and thus it can provide insight on the possible maintenance costs for the company as the usage that the bikes have increases.
 
