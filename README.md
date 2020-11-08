@@ -9,7 +9,7 @@ Our insights from this data will be visualized in Tableau.
 
 ## Results
 
-[link to dashboard](https://public.tableau.com/profile/ian7021#!/vizhome/Module14Challenge_16044471346990/NYCCitiBikeStory?publish=yes)
+[NYC Citi Bike Story](https://public.tableau.com/profile/ian7021#!/vizhome/Module14Challenge_16044471346990/NYCCitiBikeStory?publish=yes)
 
 Trips By Weekday Per Hour
 
@@ -31,7 +31,7 @@ Here, we have broken down the user types, per use customers and subscribers, whi
 
 Checkout Time for Users
 
-![Checkout Time for Users.png](Images/Checkout Time for Users.png)
+![Checkout Time for Users.png](Images /Checkout Time for Users.png)
 
 This graph breaks down the trip durations by the number of rides, and it is clear that the majority of users have about 5 to 6 hour long trips.
 
